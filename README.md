@@ -3,7 +3,8 @@
 
 ----
 ### 網頁推薦
-[小米解鎖國內版](http://www.miui.com/unlock)
+[[git鏡像國內版]](https://hub.fastgit.org)
+[[小米解鎖國內版]](http://www.miui.com/unlock)
 
 ----
 ### 倉庫推薦
