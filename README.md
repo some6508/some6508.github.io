@@ -3,6 +3,7 @@
 
 ----
 ### 網頁
+[[下載]](https://github.com/some6508/some6508.github.io/releases)
 [[git鏡像國內版]](https://hub.fastgit.org)
 [[小米解鎖國內版]](http://www.miui.com/unlock)
 [[小米解鎖國外版]](http://en.miui.com/unlock)
