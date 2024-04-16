@@ -3,7 +3,7 @@ title: 个人主页
 #网站描述
 description: 欢迎光临
 #显示下载按钮
-show_downloads: true
+#show_downloads: true
 #将其更改为站点的基本主机名和协议
 url: "https://some6508.github.io/"
 google_analytics:
