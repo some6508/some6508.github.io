@@ -1,11 +1,17 @@
-title: Cayman theme #网站名
-description: Cayman is a clean, responsive theme for GitHub Pages. #网站描述
-#show_downloads: true #显示下载按钮
-url: "https://some6508.github.io/" # change this to the base hostname & protocol for your site
+#网站名
+title: 个人主页
+#网站描述
+description: 欢迎光临
+#显示下载按钮
+show_downloads: true
+#将其更改为站点的基本主机名和协议
+url: "https://some6508.github.io/"
 google_analytics:
-theme: jekyll-theme-cayman  #主题
+#主题
+theme: jekyll-theme-cayman
+#作者
 author: some6508
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-remote-theme #将这一行添加到插件列表中，如果你已经有一个
 header_page_refs: [] #加载md模版
